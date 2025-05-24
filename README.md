@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelcassaro&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelcassaro" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-cv-delta.vercel.app/](https://portfolio-website-cv-delta.vercel.app/)
 
@@ -41,4 +41,6 @@
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-        </p>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelcassaro&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelcassaro" /> </p>
