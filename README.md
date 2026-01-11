@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h1 align="center">Oi 👋, Me chamo Rafael</h1>
+<h3 align="center">Sou um desenvolvedor full stack</h3>
 
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-cv-delta.vercel.app/](https://portfolio-website-cv-delta.vercel.app/)
+- 👨‍💻 Todos os meus projetos podem ser vistos em: [https://portfolio-website-cv-delta.vercel.app/](https://portfolio-website-cv-delta.vercel.app/)
 
-- 📫 How to reach me **rafaelcassacosta@hotmail.com**
+- 📫 Meu e-mail: **rafaelcassacosta@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Meu Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rafaelcassarocosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelcassarocosta" height="30" width="40" /></a>
 </p>
